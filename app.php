@@ -1,3 +1,4 @@
 <?php
-    echo "Hola"
+    echo "Hola";
+    echo "Este es mi primer codigo";
 ?>

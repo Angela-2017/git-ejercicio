@@ -1,5 +1,7 @@
 <?php
     $firstNumer=2;
-    $secondNumber=4;
-    echo $firstNumer+$secondNumber
+    $secondNumber=5;
+    echo $firstNumer+$secondNumber;
+    echo $firstNumer-$secondNumber;
+
 ?>
